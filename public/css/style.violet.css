@@ -2042,6 +2042,12 @@ fieldset[disabled] .btn-template-primary.active {
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
+
+.carousel-image {
+  float: right;
+  height: 350px;
+}
+
 @media (max-width: 767px) {
   #blog-listing-big .post .image img.img-responsive,
   #blog-homepage .post .image img.img-responsive {
