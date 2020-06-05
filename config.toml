@@ -49,12 +49,18 @@ paginate = 10
 
 [[menu.topbar]]
     weight = 2
+    name = "LinkedIn"
+    url = "http://www.linkedin.com/in/andrewjgeisler/"
+    pre = "<i class='fab fa-2x fa-linkedin'></i>"
+
+[[menu.topbar]]
+    weight = 3
     name = "Twitter"
     url = "http://twitter.com/_andrewgeisler"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
-    weight = 3
+    weight = 4
     name = "Email"
     url = "mailto:andrew.geisler@email.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
