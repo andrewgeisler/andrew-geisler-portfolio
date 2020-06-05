@@ -1,0 +1,179 @@
+---
+output: html_document
+css: custom.css
+---
+<p>
+<div class="header">
+
+<table width="100%">
+<tr style="vertical-align:middle;">
+  <td>
+    <span style="font-size: 210%;font-weight:bold;padding-top:10px;">Andrew Geisler </span><br/>
+    <span style="font-size: 90%;font-weight:normal;">Senior Data Analyst</span><br/>
+    <span style="font-size: 85%;font-weight:normal;">Old Hickory, TN</span>
+  </td>
+  <td style = "text-align: right;font-size: 75%; font-weight:normal;line-height:12px;">
+  andrew.geisler@gmail.com<br/>
+  github.com/andrewgeisler<br/>
+  linkedin.com/in/andrewjgeisler<br/>
+  615-828-6982
+  </td>
+</table>
+</div>
+
+<div style="padding-top:50px;padding-left:10px; padding-right:10px;font-size:120%;font-weight:500;">
+
+Passionate data professional seeking continued growth and community in all things R,  stats, modeling, and data analysis.
+
+</div>
+<div>
+
+
+
+<div class="column-left">
+
+### Experience
+
+<div style="padding-left:5px;padding-right:25px">
+<span class="callout">
+GoNoodle | May 2016 — May 2020<br/>
+Senior Data Analyst
+</span>
+
+Supported product, marketing, and sales department goals by building models, custom analysis, and tools catered to specific business needs:
+
+  - Modeled user lifetime value based on potential ad revenue
+  - Modeled user engagement based on content consumption
+  - Survival analysis to address user retention goals
+  - A/B Testing (BayesAB) product features
+  - Projected and forecasted ad inventory and revenue opportunities
+  - Developed corporate dashboards to standardize business KPIs across the organization
+
+Improved consistency and reliability of data products by designing and developing custom ETL data pipeline:
+
+  - Redshift/s3 Data Warehouse
+  - Apache Airflow, Python, SQL
+  - AWS Tools: (s3, Kinesis, Athena, Redshift, RDS)
+  - Standardized Reporting and Exploration (Looker, Python)
+
+Increased data team throughput by planning, managing, gathering requirements, and estimating projects into weekly sprints:
+ 
+  - Improved cross department relationships
+  - Shortened development cycle  
+  - Executed in clubhouse.io
+
+
+<span class="callout">
+iostudio, llc | Jan 2012 — May 2016 <br />
+Business Intelligence Supervisor
+</span>
+
+Enabled account management team to proactively track, monitor, and drive toward client success by determining KPIs, gathering requirements, and planning required data processes:
+
+  - Project/Team management
+  - Measurement plans, KPIs, project planning.
+  - Internal dashboards and standardizing and automating client reporting
+  - Web Analytics (Google Analytics)
+  - Lead Segmentation Analysis and Research
+
+Delivered consistent, accurate, and reliable data projects by designing and maintaining data warehouse and ETL processes:
+
+  - Integrating multiple sources (Google Analytics, Call Center, Contract Conversions)
+  - Cross-departmental collaboration  (Developers, IT, Account Management, Call Center)
+  - ETL Scripts (Pentaho & R scripts)
+
+
+<span class="callout">
+Bohan Advertising | Feb 2008 — Jan 2012 <br />
+Brand Engagement Specialist
+</span>
+
+  - Media Planning, Buying (traditional and digital)
+  - Audience Research and Impact Analysis (Market penetration and coupon ROI tracking)
+
+<span class="callout">
+The Buntin Group | Feb 2007 — Feb 2008 <br />
+Assistant Media Planner/Buyer
+</span>
+
+  - Assisted Planners and Buyers, Audience Research
+
+<span class="callout">
+Navigation Advertising | May 2006 — Feb 2007 <br />
+Marketing Associate
+</span>
+</div></div>
+
+<div class="column-space"></div>
+
+<div class="column-right">
+
+### Technical Skills
+
+- R, RStudio
+- Shiny, RMarkdown
+- SQL
+- Python
+- Looker
+- Airflow
+- Talend/Pentaho
+- AWS Tools (Redshift, s3, Lambda, Kinesis, Glue Catalog, Athena)
+
+
+### Education
+<div style="padding-left:5px;">
+<span class="callout">
+Middle Tennessee State University<br/> 
+Aug 2002 — Aug 2006<br/>
+Bachelor of Science<br/></span>
+Advertising | Marketing | Philosophy 
+
+
+<span class="callout">
+Courses & Certificates | 2012 - Present <br /></span>
+
+<span class="callout">Datacamp.com</span>
+
+  - Data Scientist with R Track
+    - <b>23 Courses</b> 
+    - Track completed April 2019
+    
+  - Big Data with R Track
+    - Introduction to Spark in R using sparklyr
+    - Parallel Programming in R
+    - Scalable Data Processing in R
+    - Writing Efficient R Code
+  
+<span class="callout">Coursera.org</span>
+
+ - Bayesian Statistics: From Concept to Data Analysis
+ - Regression Models
+ - Statistical Inference
+
+<span class="callout">edx.org</span>
+
+  - Foundations of Data Analysis
+  - Introduction to Big Data with Apache Spark
+  - The Analytics Edge (audit)
+
+
+</div></div>
+
+
+
+<div class="footer">
+
+
+<table width="100%">
+<tr><td colspan="4"><br></td></tr>
+<tr>
+<td>Andrew Geisler</td>
+<td>Old Hickory, TN 37138</td>
+<td>615-828-6982</td>
+<td>andrew.geisler@gmail.com</td>
+</tr>
+<tr><td colspan="4"><span style="text-align:right;font-size:70%;">*created in rmarkdown</span></td></tr>
+</table>
+</div>
+
+<!-- wkhtmltopdf --page-size letter --margin-top 1 --margin-left 1 --margin-right 1 --margin-bottom 1  andrew-geisler.html andrew-geisler-resume.pdf -->
