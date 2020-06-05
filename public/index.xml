@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Geisler</title>
+    <link>/</link>
+    <description>Recent content on Andrew Geisler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Education</title>
+      <link>/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/education/</guid>
+      <description>Middle Tennessee State University | Aug 2002 — Aug 2006  Bachelor of Science
+Advertising | Marketing | Philosophy
+  Datacamp.com  Data Scientist with R Track
+ 23 Courses Track completed April 2019  Big Data with R Track
+ Introduction to Spark in R using sparklyr Parallel Programming in R Scalable Data Processing in R Writing Efficient R Code    Coursera.org   Bayesian Statistics: From Concept to Data Analysis Regression Models Statistical Inference    edx.</description>
+    </item>
+    
+    <item>
+      <title>Examples</title>
+      <link>/examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/examples/</guid>
+      <description>GoodReads  ADD TEXT BLUB
+  BayesAB Testing  ADD TEXT BLUB
+  San Fran Tree Data  ADD TEXT BLUB
+  Summary Dashboard  ADD TEXT BLUB
+  *All data randomly generated except where specifically noted.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/experience/</guid>
+      <description>GoNoodle | May 2016 — May 2020 Senior Data Analyst  Supported product, marketing, and sales department goals by building models, custom analysis, and tools catered to specific business needs:
+  Modeled user lifetime value based on potential ad revenue Modeled user engagement based on content consumption Survival analysis to address user retention goals A/B Testing (BayesAB) product features Projected and forecasted ad inventory and revenue opportunities Developed corporate dashboards to standardize business KPIs across the organization   Improved consistency and reliability of data products by designing and developing custom ETL data pipeline:</description>
+    </item>
+    
+  </channel>
+</rss>

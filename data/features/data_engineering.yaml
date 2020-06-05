@@ -1,0 +1,5 @@
+weight: 2
+name: "Data Engineering"
+icon: "fas fa-code"
+url: ""
+description: " Python, Airflow, Talend/Pentaho, AWS Tools (Redshift, s3, Lambda, Kinesis, Glue Catalog, Athena)"

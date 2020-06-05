@@ -1,0 +1,4 @@
+weight: 2
+title: "Bayesian A/B Testing"
+description: "<p>Using BayesAB package to run AB testing.</p>"
+image: "img/carousel/bayesab.gif"
