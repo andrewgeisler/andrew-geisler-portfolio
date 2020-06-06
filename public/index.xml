@@ -29,7 +29,7 @@ Advertising | Marketing | Philosophy
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/examples/</guid>
-      <description>GoodReads Github
+      <description>GoodReads Github | Shiny App
  As an avid reader, Spotify&amp;rsquo;s Year in Review feature inspired me to see what I could learn from my own reading habits. I found that goodreads.com has an API where I could access my reading data. Analysis included year-over-year comparisons, reading pace, top genres, top authors, and sentiment analysis based on quotes from each books. Additionally, I learned that parsing XML is not for the faint of heart.</description>
     </item>
     
