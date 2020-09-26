@@ -21,6 +21,7 @@ Data Scientist with R Track
   - Track completed April 2019
     
 Big Data with R Track
+
   - Introduction to Spark in R using sparklyr
   - Parallel Programming in R
   - Scalable Data Processing in R

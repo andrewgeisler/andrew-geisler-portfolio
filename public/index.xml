@@ -43,5 +43,15 @@ Advertising | Marketing | Philosophy
   Modeled user lifetime value based on potential ad revenue Modeled user engagement based on content consumption Survival analysis to address user retention goals A/B Testing (BayesAB) product features Projected and forecasted ad inventory and revenue opportunities Developed corporate dashboards to standardize business KPIs across the organization   Improved consistency and reliability of data products by designing and developing custom ETL data pipeline:</description>
     </item>
     
+    <item>
+      <title>Music</title>
+      <link>/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/music/</guid>
+      <description> Leaves EP Spotify | Apple Music | Google Play | Amazon
+ </description>
+    </item>
+    
   </channel>
 </rss>

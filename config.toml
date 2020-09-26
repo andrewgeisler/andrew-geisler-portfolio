@@ -39,6 +39,12 @@ paginate = 10
     url  = "/examples/"
     weight = 4
 
+[[menu.main]]
+    identifier = "Music"
+    name = "Music"
+    url  = "/Music/"
+    weight = 4
+
 # Top bar social links menu
 
 [[menu.topbar]]
