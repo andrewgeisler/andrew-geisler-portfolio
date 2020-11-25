@@ -4,6 +4,11 @@ title: Experience
 
 -------- 
 
+## Freelance Data Analyst | May 2020 — Current
+
+> Providing support across a range of disciplines including data engineering, analysis, automation, and dashboard development.
+
+
 ## GoNoodle | May 2016 — May 2020
 #### Senior Data Analyst
 
