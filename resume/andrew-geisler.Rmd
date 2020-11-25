@@ -36,6 +36,12 @@ Passionate data professional seeking continued growth and community in all thing
 
 <div style="padding-left:5px;padding-right:25px">
 <span class="callout">
+Freelance Data Analyst | May 2020 — Current<br/>
+</span>
+
+Providing support across a range of disciplines including data engineering, analysis, automation, and dashboard development.
+
+<span class="callout">
 GoNoodle | May 2016 — May 2020<br/>
 Senior Data Analyst
 </span>
@@ -98,10 +104,6 @@ Assistant Media Planner/Buyer
 
   - Assisted Planners and Buyers, Audience Research
 
-<span class="callout">
-Navigation Advertising | May 2006 — Feb 2007 <br />
-Marketing Associate
-</span>
 </div></div>
 
 <div class="column-space"></div>
